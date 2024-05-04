@@ -23,5 +23,5 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ### Resolução da Parte 01 
 
-<img src="./src/resolucao01" alt="Diagrama de Entidade e Relacionamento">
+<img src="./src/resolucao01.png" alt="Diagrama de Entidade e Relacionamento">
 
