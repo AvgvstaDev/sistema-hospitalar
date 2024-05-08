@@ -2,7 +2,7 @@
 
 💡 Este projeto, desenvolvido ao longo de 08 partes, foi proposto pelo Professor Gabriel Augusto durante o curso do Instituto PROA visando a aprendizagem de Banco de Dados.
 
-## Conceito da atividade 
+## Objetivo da atividade 
 
 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor às suas necessidades.
 Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. 
