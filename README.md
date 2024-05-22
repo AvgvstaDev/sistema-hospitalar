@@ -9,7 +9,7 @@ Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, 
 
 ## Enunciado da atividade 
 
-### Parte 01 
+### 🏥 Parte 01 
 
 Analise a seguinte descrição e extraia dela os requisitos para o banco de dados:
 
